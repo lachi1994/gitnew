@@ -1,0 +1,1 @@
+git is devops tool and also it is code hosting platform and collabration
